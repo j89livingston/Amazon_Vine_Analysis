@@ -16,9 +16,11 @@ There is a couple things we can determine from the dataset:
 * How many Vine Reviews and non-Vine reviews are there?
 
 Paid Reviews
+
 ![Resources/Paidreviews.png](Resources/Paidreviews.png)
 
 Unpaid Reviews
+
 ![Resources/unpaidreviews.png](Resources/unpaidreviews.png) 
 
 After loading the dataset from Amazon, and filtering the most helpful reviews, you can see:
