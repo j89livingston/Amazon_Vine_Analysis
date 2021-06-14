@@ -16,7 +16,7 @@ There is a couple things we can determine from the dataset:
 * How many Vine Reviews and non-Vine reviews are there?
 
 Paid Reviews
-![Resources/paidreviews.png](Resources/paidreviews.png)
+![Resources/Paidreviews.png](Resources/Paidreviews.png)
 
 Unpaid Reviews
 ![Resources/unpaidreviews.png](Resources/unpaidreviews.png) 
