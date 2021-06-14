@@ -34,7 +34,11 @@ Unpaid:
 
 _____
 
+5 Star Paid 
+
 ![Resources/5starpaid.png](Resources/5starpaid.png)
+
+5 Star Unpaid
 
 ![Resources/5starunpaid.png](Resources/5starunpaid.png)
 
@@ -50,8 +54,11 @@ _____
 
 _____
 
+5 Star Paid Percentage 
 
 ![Resources/5starpaidp.png](Resources/5starpaidp.png)
+
+5 Star Unpaid Percentage
 
 ![Resources/5starunpaidp.png](Resources/5starunpaidp.png)
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stares?
